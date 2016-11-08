@@ -16,7 +16,7 @@ Press ENTER to annoate current image
 Press SPACE to skip current image
 
 
-Once the image has been selected for annotation
+#### Once the image has been selected for annotation
 
 Left Click - Visible joint
 
@@ -26,6 +26,4 @@ TAB - Current joint is not applicable for current image
 
 Any key - register the annotation and move to next joint
 
-
-
-After all the joints are annotated the joint coordinates is written to file and next image is loaded.
+#### After all the joints are annotated the joint coordinates is written to file and next image is loaded.
