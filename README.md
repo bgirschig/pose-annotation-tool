@@ -1,8 +1,10 @@
 # pose-annotation-tool
 
 ### Compiling the tool
+```
 cmake .
 make
+```
 
 ### Running the tool
 ./pose-annotation-tool path_to_list_images.txt
